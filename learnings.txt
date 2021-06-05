@@ -1,0 +1,14 @@
+let and Const declarations
+Destructuring assignments
+Classes and Inheritance
+Template strings
+String features
+Math and Number features
+New data structures
+Iterators
+Generators
+Promises and Asynchronous Data
+Arrow
+
+Babel - Converting ES6 to ES5
+Kangex - to check the compatability of the browser of ES6
